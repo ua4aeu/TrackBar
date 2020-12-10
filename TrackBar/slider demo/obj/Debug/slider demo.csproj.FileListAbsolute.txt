@@ -1,0 +1,10 @@
+C:\Users\ua4aeu\Desktop\CIS209-TrackBar_Demo-master\CIS209-TrackBar_Demo-master\slider demo\bin\Debug\slider demo.exe.config
+C:\Users\ua4aeu\Desktop\CIS209-TrackBar_Demo-master\CIS209-TrackBar_Demo-master\slider demo\bin\Debug\slider demo.exe
+C:\Users\ua4aeu\Desktop\CIS209-TrackBar_Demo-master\CIS209-TrackBar_Demo-master\slider demo\bin\Debug\slider demo.pdb
+C:\Users\ua4aeu\Desktop\CIS209-TrackBar_Demo-master\CIS209-TrackBar_Demo-master\slider demo\obj\Debug\slider demo.csprojAssemblyReference.cache
+C:\Users\ua4aeu\Desktop\CIS209-TrackBar_Demo-master\CIS209-TrackBar_Demo-master\slider demo\obj\Debug\slider_demo.Form1.resources
+C:\Users\ua4aeu\Desktop\CIS209-TrackBar_Demo-master\CIS209-TrackBar_Demo-master\slider demo\obj\Debug\slider_demo.Properties.Resources.resources
+C:\Users\ua4aeu\Desktop\CIS209-TrackBar_Demo-master\CIS209-TrackBar_Demo-master\slider demo\obj\Debug\slider demo.csproj.GenerateResource.cache
+C:\Users\ua4aeu\Desktop\CIS209-TrackBar_Demo-master\CIS209-TrackBar_Demo-master\slider demo\obj\Debug\slider demo.csproj.CoreCompileInputs.cache
+C:\Users\ua4aeu\Desktop\CIS209-TrackBar_Demo-master\CIS209-TrackBar_Demo-master\slider demo\obj\Debug\slider demo.exe
+C:\Users\ua4aeu\Desktop\CIS209-TrackBar_Demo-master\CIS209-TrackBar_Demo-master\slider demo\obj\Debug\slider demo.pdb
